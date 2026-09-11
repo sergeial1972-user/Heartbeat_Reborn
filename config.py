@@ -21,7 +21,7 @@ try:
     WEB2 = os.environ['WEB2']
     RU1 = os.environ['RU1']
     RU2 = os.environ['RU2']
-    ROUTER = os.environ['Router']
+    ROUTER = os.environ['ROUTER']
 
 
 

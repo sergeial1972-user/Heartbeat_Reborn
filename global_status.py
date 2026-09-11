@@ -1,7 +1,6 @@
 #imports
 
 from config import RU_LIST, INTERNET_LIST, ROUTER
-import bs4 as bs
 import httpx
 
 def check_url(url: str) -> bool:
